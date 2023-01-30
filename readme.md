@@ -1,13 +1,13 @@
 # UI colors
 
-Photoshop stores information about the color schemes of the interface in the `Required\UIcolors.jsx` file.The script is designed to present colors from this file, as well as a quick search for elements and modifying colors.
+Photoshop stores information about the color schemes of the interface in the `Required\UIcolors.jsx` file. The script is designed to present colors from this file, as well as a quick search for elements and modifying colors.
 
 ## how to install
 
 Unfortunately, the script does not support the automatic installation from the Creative Cloud application, so you need to perform the following steps:
 1. Download the latest version of [UIcolors.jsx](https://github.com/boogalooper/UIcolors/blob/master/UIcolors.jsx) from the GitHub repository [https://github.com/boogalooper/UIcolors](https://github.com/boogalooper/UIcolors)
 2. Copy the Uicolors.jsx file in the `Pressets\Scripts\` Photoshop folder
-3. Restart Photoshop if it was launched at the time of copying the script. `Ui colors` will appear on the `File -> Scripts` menu
+3. Restart Photoshop if it was launched at the time of copying the script. `Ui colors` will appear in the `File -> Scripts` menu
 4. Run the script from the menu
 
 ## Using UI Colors
