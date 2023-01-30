@@ -10,7 +10,7 @@ Unfortunately, the script does not support the automatic installation from the C
 3. Restart Photoshop if it was launched at the time of copying the script. `Ui colors` will appear on the `File -> Scripts` menu
 4. Run the script from the menu
 
-## Application of UI Colors
+## Using UI Colors
 
 ![](assets/20230130_220820_2023-01-30_22-07-03.png)
 
